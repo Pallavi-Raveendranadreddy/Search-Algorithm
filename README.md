@@ -98,7 +98,7 @@ else:
 ```
 ## Sample Input and Output
 
-![sample](./sample.png)
+![sample](https://github.com/Pallavi-Raveendranadreddy/Search-Algorithm/blob/50b672dd19ec5b31241130c5183a06e2cc436992/sample.PNG)
 
 ### OUTPUT:
 ![output](./N1.PNG)
